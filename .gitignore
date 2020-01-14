@@ -1,4 +1,4 @@
 #
-*.txt
-!text1.txt
-!text2.txt
+#*.txt
+#!text1.txt
+#!text2.txt
